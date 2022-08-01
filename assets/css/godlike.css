@@ -952,7 +952,7 @@ h6,
 
 .nk-modal .modal-body,
 .nk-summernote-modal-style ~ .modal .modal-body {
-    padding: 30px;
+    padding: 0px;
 }
 
 .nk-modal.fade .modal-dialog,
